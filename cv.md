@@ -6,8 +6,8 @@
 I'm a beginner programmer. I study in 8 class. I work well in a team,
 I want to learn new things and learn programming
 ### Courses
-*CS50 lectures
-*C++ programming courses
+* CS50 lectures
+* C++ programming courses
 ### Skills
 Basic c++
 ### English
