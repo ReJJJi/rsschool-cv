@@ -12,6 +12,6 @@ I want to learn new things and learn programming
 ### Skills
 Basic c++
 ### Languages
-English: A2 (Was practising it in duolinguo)
-Russian: native
-Belarusian: basic level
+* English: A2 (Was practising it in duolinguo)
+* Russian: native
+* Belarusian: basic level
