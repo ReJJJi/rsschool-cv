@@ -12,4 +12,4 @@ I want to learn new things and learn programming
 Basic c++
 ### English
 A2 (Was practising it in duolinguo)
-![Sertificate from EM english level testing](/C/ef.png "")
+![Sertificate from EM english level testing](/C:/ef.png "")
