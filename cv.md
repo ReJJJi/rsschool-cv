@@ -14,4 +14,5 @@ Basic c++
 ### Languages
 * English: A2 (Was practising it in duolinguo)
 * Russian: native
-* Belarusian: basic level
+
+
